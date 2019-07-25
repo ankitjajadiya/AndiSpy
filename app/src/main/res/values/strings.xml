@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndiSpy</string>
+    <string name="wel_come_to_andispy">This Device Is Ready For Monitor.To Show Activity open below link:
+        andispy.grassobot.com
+        follow this step on website:
+        1.Sign in with register Email id And Password.
+        2.You are Ready to show data.
+    </string>
+</resources>
